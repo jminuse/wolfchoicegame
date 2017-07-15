@@ -1,0 +1,33 @@
+*comment Copyright 2010 by Dan Fabulich.
+*comment 
+*comment Dan Fabulich licenses this file to you under the
+*comment ChoiceScript License, Version 1.0 (the "License"); you may
+*comment not use this file except in compliance with the License. 
+*comment You may obtain a copy of the License at
+*comment 
+*comment  http://www.choiceofgames.com/LICENSE-1.0.txt
+*comment 
+*comment See the License for the specific language governing
+*comment permissions and limitations under the License.
+*comment 
+*comment Unless required by applicable law or agreed to in writing,
+*comment software distributed under the License is distributed on an
+*comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+*comment either express or implied.
+
+*title Werewolf of Wall Street
+*author Maddie and James
+*scene_list
+  startup
+  dinner
+
+*create Aggressiveness 50
+*create Loyalty 50
+
+It's your first day as an analyst at Goldman Sachs. You notice that the other analysts are all surprisingly muscular in their tailored suits, and also are somewhat excessively hairy. Soon lunch comes around and you notice one of the other more senior analysts motion you over.
+
+"Care to join me for lunch?" she says with a wide smile.
+
+You see no reason why not.
+
+*finish

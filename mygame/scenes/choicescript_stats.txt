@@ -1,0 +1,7 @@
+This is a stats screen!
+
+*stat_chart
+  opposed_pair Aggressiveness
+    Guile
+  opposed_pair Loyalty
+    Disloyalty
