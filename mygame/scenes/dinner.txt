@@ -29,6 +29,5 @@ She walks straight past the hostess, who chases after her fretfully like a poodl
     *goto welcome
 
 *label welcome
-*page_break
 “Welcome to the company” she says. Her voice is low and smooth. “Two house specials. One rare, one raw.” The waiter nods calmly and walks away, not looking at all surprised. You guess that's your order too.
 *finish
