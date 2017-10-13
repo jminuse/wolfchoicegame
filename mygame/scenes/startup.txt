@@ -20,6 +20,7 @@
 *scene_list
   startup
   dinner
+  getting-bitten
 
 *create Aggressiveness 50
 *create Loyalty 50
