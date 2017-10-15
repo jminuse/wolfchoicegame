@@ -15,10 +15,10 @@
 *comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
 *comment either express or implied.
 
-*if (Species = Werewolf)
+*if (Species = "Werewolf")
  Livida says, "Hi fellow werewolf, how are you doing?"
  
-*if (Species = Human)
+*if (Species = "Human")
  Livida says, "Greetings human"
 INTERACTION WITH LIVIDA THAT CHANGES A STAT
 
