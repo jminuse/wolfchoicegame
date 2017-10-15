@@ -1,4 +1,4 @@
-Stats! Mmm, statistical. 
+I know you are, but what am I?
 
 *stat_chart
   text Species
