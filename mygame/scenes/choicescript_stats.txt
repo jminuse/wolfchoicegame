@@ -1,4 +1,4 @@
-This is a stats screen!
+Stats! Mmm, statistical. 
 
 *stat_chart
   percent Aggressiveness
