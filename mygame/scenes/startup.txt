@@ -33,7 +33,7 @@
 *create Aggressiveness 50
 *create Guile 50
 *create Loyalty 50
-*create Lycanthropy 0
+*create Species "Human"
 
 You are early for work
 
