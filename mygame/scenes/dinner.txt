@@ -1,20 +1,3 @@
-*comment Copyright 2010 by Dan Fabulich.
-*comment 
-*comment Dan Fabulich licenses this file to you under the
-*comment ChoiceScript License, Version 1.0 (the "License"); you may
-*comment not use this file except in compliance with the License. 
-*comment You may obtain a copy of the License at
-*comment 
-*comment  http://www.choiceofgames.com/LICENSE-1.0.txt
-*comment 
-*comment See the License for the specific language governing
-*comment permissions and limitations under the License.
-*comment 
-*comment Unless required by applicable law or agreed to in writing,
-*comment software distributed under the License is distributed on an
-*comment "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
-*comment either express or implied.
-
 MUST BE A WEEK BETWEEN START OF JOB AND THIS
 
 She walks straight past the hostess, who chases after her fretfully like a poodle until stopped with a sharp look from the waiter. She sits down at a corner table by the window, slightly separated from the others. You sit down too. The waiter brings a bottle to the table that looks like it was pulled from the wreckage of a French chateau in 1940 and saved for a special occasion. He shows her the label, uncorks, and pours for both of you. Do you even drink alcohol? 
