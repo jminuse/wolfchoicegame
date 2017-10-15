@@ -4,4 +4,6 @@ This is a stats screen!
   percent Aggressiveness
   percent Guile
   percent Loyalty
-  percent Lycanthropy
+*if Lycanthropy:
+  *stat_chart
+    Werewolf
