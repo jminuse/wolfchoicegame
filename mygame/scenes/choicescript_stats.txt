@@ -4,6 +4,4 @@ Stats! Mmm, statistical.
   percent Aggressiveness
   percent Guile
   percent Loyalty
-*if Lycanthropy:
-  *stat_chart
-    Werewolf
+  text Lycanthropy
