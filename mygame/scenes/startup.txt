@@ -22,6 +22,8 @@
   job-application
   dinner
   getting-bitten
+  week-2-livida
+  week-2-silver-crash
 
 *create Aggressiveness 50
 *create Loyalty 50
