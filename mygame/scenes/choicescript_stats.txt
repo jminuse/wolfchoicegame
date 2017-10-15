@@ -1,7 +1,7 @@
 Stats! Mmm, statistical. 
 
 *stat_chart
+  text Species
   percent Aggressiveness
   percent Guile
   percent Loyalty
-  text Lycanthropy
