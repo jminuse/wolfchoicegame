@@ -25,6 +25,7 @@
 
 *create Aggressiveness 50
 *create Loyalty 50
+*create Guile 50
 
 You are early for work
 
