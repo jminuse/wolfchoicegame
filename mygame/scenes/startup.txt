@@ -30,10 +30,10 @@
   week-4-livida-trouble
   ending
 
+*create Species "Human"
 *create Aggressiveness 50
 *create Guile 50
 *create Loyalty 50
-*create Species "Human"
 
 You are early for work
 
