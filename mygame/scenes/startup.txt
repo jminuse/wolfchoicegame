@@ -31,9 +31,9 @@
   ending
 
 *create Aggressiveness 50
-*create Loyalty 50
 *create Guile 50
-*create Lycanthropy false
+*create Loyalty 50
+*create Lycanthropy 0
 
 You are early for work
 
@@ -41,7 +41,7 @@ You see some weird stuff (bloodstains, scratch marks)
 
 Question, for flavor
 
-It's your first day as an analyst at Goldman Sachs. You notice that the other analysts are all surprisingly muscular in their tailored suits, and also are somewhat excessively hairy. Soon lunch comes around and you notice one of the other more senior analysts motion you over.
+It's your first day as an analyst at WSW. You notice that the other analysts are all surprisingly muscular in their tailored suits, and also are somewhat excessively hairy. Soon lunch comes around and you notice one of the other more senior analysts motion you over.
 
 "Care to join me for lunch?" she says with a wide smile.
 
