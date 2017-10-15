@@ -19,6 +19,7 @@
 *author Maddie and James
 *scene_list
   startup
+  job-application
   dinner
   getting-bitten
 
