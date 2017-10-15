@@ -24,6 +24,11 @@
   getting-bitten
   week-2-livida
   week-2-silver-crash
+  week-3-asshole
+  week-3-half-assed-conflict
+  week-4-boss
+  week-4-livida-trouble
+  ending
 
 *create Aggressiveness 50
 *create Loyalty 50
