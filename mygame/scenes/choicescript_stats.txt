@@ -4,4 +4,4 @@ This is a stats screen!
   percent Aggressiveness
   percent Guile
   percent Loyalty
-  text Lycanthropy
+  percent Lycanthropy
