@@ -35,7 +35,7 @@
 *create Guile 50
 *create Loyalty 50
 
-You are early for work
+You are early for work, thanks to the clean, reliable MTA
 
 You see some weird stuff (bloodstains, scratch marks)
 
